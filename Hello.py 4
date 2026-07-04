@@ -1,0 +1,23 @@
+a =int(input("enter number one value:::"))
+b =int(input("enter number two value:::"))
+
+ram = a + b
+print("Addition of" ,a, "and" ,b, "is" ,ram)
+
+ram = a - b
+print("Substract of" ,a, "and" ,b, "is" ,ram)
+
+ram = a * b
+print("Mulitiplication of" ,a, "and" ,b, "is" ,ram)
+
+ram = a / b
+print("Division of" ,a, "and" ,b, "is" ,ram)
+
+ram = a % b
+print("Moduls is" ,a, "and" ,b, "is" ,ram)
+ 
+ram = a // b
+print("Fllor of" ,a, "and" ,b, "is" ,ram)
+
+ram = a ** b
+print("Exponatial of" ,a, "and" ,b, "is" ,ram)
